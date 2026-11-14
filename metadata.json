@@ -1,0 +1,6 @@
+{
+  "name": "Maison Verrel — The Rail",
+  "description": "Luxury fashion storefront hero featuring an interactive curved gold clothing rail, garment turn-to-face hover, full-screen quick-view, and fly-to-bag cart drawer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
